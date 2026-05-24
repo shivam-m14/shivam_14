@@ -81,10 +81,11 @@ body{
 }
 
 .c1{
-     top: 240px; 
+     
      height: 12px;
      width: 12px;
      background-color: black;
+     top: 240px; 
     }
 .c2{
      top: 260px; 
